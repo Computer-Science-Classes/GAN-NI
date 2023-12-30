@@ -1,0 +1,7 @@
+./output
+./graphs
+./data
+gan_checkpoint.pt
+progress.md
+
+./__pychache__
